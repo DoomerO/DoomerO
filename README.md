@@ -4,7 +4,6 @@
 - 🌱 I am currently learning API development with node.js using knex and express.
 
 <h1>Languages used in the repositories</h1>
-<p><img src="https://www.flaticon.com/free-icon/typescript_5968381"/></p>
 
 <h1>Who am I?</h1>
 <p>I am a student of progamming. I don't have any degree yet, but I study by myself and work in my own projects.</p>
