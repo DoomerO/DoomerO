@@ -15,6 +15,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="80px" height="80px"/>
 </div>
 
+<h1>Github Stats</h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1>Who am I?</h1>
 <p>I am a student of progamming. I don't have any degree yet, but I study by myself and work in my own projects.</p>
 <p>I live in Brazil, and I am aways learning english to proper communication in a profetional way.</p>
