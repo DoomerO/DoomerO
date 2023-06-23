@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="100px" height="100px" margin="20px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="100px" height="100px" margin="20px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="100px" height="100px" margin="20px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="100px" height="100px"/>
 </div>
 
 <h1>Who am I?</h1>
