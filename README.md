@@ -5,7 +5,7 @@
 
 <h1>Languages used in the repositories</h1>
 <div style="display inline-block">
-  <img src="https://github.com/devicons/devicon/tree/master/icons/java/java-plain-wordmark.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" style="width 5vh height 5vh"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
