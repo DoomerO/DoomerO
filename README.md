@@ -5,13 +5,13 @@
 
 <h1>Languages used in the repositories</h1>
 <div style="display inline-block">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" style="width 5vh height 5vh"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="5vh" height="5vh"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="5vh" height="5vh"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="5vh" height="5vh"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="5vh" height="5vh"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" width="5vh" height="5vh"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="5vh" height="5vh"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="5vh" height="5vh"/>
 </div>
 
 <h1>Who am I?</h1>
