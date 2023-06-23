@@ -3,6 +3,8 @@
 - 🔭 I am currently working on projects with javaScript, TypeScript and Node.js
 - 🌱 I am currently learning API development with node.js using knex and express.
 
+<h1>Github Stats</h1>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoomerO&count&theme=merko&hide_border=true_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoomerO&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,9 +19,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="80px" height="80px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="80px" height="80px"/>
 </div>
-
-<h1>Github Stats</h1>
-
 
 <h1>Who am I?</h1>
 <p>I am a student of progamming. I don't have any degree yet, but I study by myself and work in my own projects.</p>
