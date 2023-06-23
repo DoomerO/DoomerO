@@ -3,7 +3,7 @@
 - 🔭 I am currently working on projects with javaScript, TypeScript and Node.js
 - 🌱 I am currently learning API development with node.js using knex and express.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoomerO&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoomerO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <h1>Languages used in the repositories</h1>
 <div style="display inline-block">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" width="80px" height="80px"/>
