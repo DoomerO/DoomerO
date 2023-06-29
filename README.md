@@ -19,8 +19,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" width="80px" height="80px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="80px" height="80px"/>
 </div>
-
-<h1>Who am I?</h1>
-<p>I am a progamming student. I don't have any degree yet, but I study by myself and work on my own projects.</p>
-<p>I live in Brazil, and I am aways learning english to proper communication in a profetional way.</p>
-
