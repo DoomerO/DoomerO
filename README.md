@@ -2,7 +2,8 @@
 
 - 🔭 I am currently working on projects with javaScript, TypeScript and Node.js
 - 🌱 I am currently learning API development with node.js using knex and express.
-
+- ☻ Fun fact: Doomer_O is my "war name", per say.
+  
 <h1>Github Stats</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoomerO&count&theme=merko&hide_border=true_private=true)
