@@ -1,4 +1,4 @@
-### <h1>Hello!</h1>
+### <h1>Hello, Welcome to my profile!</h1>
 
 - 🔭 I am currently working on projects with javaScript, TypeScript and Node.js
 - 🌱 I am currently learning API development with node.js using knex and express.
