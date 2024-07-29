@@ -7,12 +7,9 @@
 
 <p align="left">Visitors : <img align="center" src="https://profile-counter.glitch.me/{DoomerO}/count.svg" /></p>
 
-<p align="left>
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoomerO&count&theme=merko&hide_border=true_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoomerO&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <h1>Languages used in the repositories</h1>
 <div style="display inline-block">
