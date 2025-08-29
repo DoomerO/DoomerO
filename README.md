@@ -1,7 +1,7 @@
 ### <h1>Hello, Welcome to my profile!</h1>
 
 - 🔭 I am currently working on projects with javaScript, TypeScript and Node.js
-- 🌱 I am currently learning API development with node.js using knex and express.
+- 🌱 I am currently learning API development with node.js and express.
   
 <h1>Github Stats</h1>
 
